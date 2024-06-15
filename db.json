@@ -1,0 +1,22 @@
+{
+    "get_content_by_url":{
+        "книга" : [
+        "https://e.mail.ru/sent/",
+        "url2",
+        "url3",
+        "url14"
+    ],
+    "книга_2" : [
+        "url1",
+        "url2",
+        "url3",
+        "url14"
+    ],
+    "книга_3" : [
+        "url1",
+        "url2",
+        "url3",
+        "url14"
+    ]
+    }
+}
