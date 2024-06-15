@@ -1,22 +1,24 @@
 {
     "get_content_by_url":{
-        "книга" : [
-        "https://e.mail.ru/sent/",
-        "url2",
-        "url3",
-        "url14"
+        "Гарри Поттер" : [
+        "https://librebook.me/harry_potter_and_the_sorcerer_s_stone",
+        "https://librebook.me/harry_potter_and_the_chamber_of_secrets",
+        "https://librebook.me/harry_potter_and_the_prisoner_of_azkaban",
+        "https://librebook.me/harry_potter_and_the_goblet_of_fire",
+        "https://librebook.me/harry_potter_and_the_order_of_the_phoenix",
+        "https://librebook.me/harry_potter_and_the_half_blood_prince",
+        "https://librebook.me/harry_potter_and_the_deathly_hallows"
     ],
-    "книга_2" : [
-        "url1",
-        "url2",
-        "url3",
-        "url14"
+    "Властелин колец" : [
+        "https://librebook.me/the_fellowship_of_the_ring",
+        "https://librebook.me/the_two_towers",
+        "https://librebook.me/the_return_of_the_king",
+        "https://librebook.me/the_lord_of_the_rings"
     ],
-    "книга_3" : [
-        "url1",
-        "url2",
-        "url3",
-        "url14"
+    "Мастер и Маргарита" : [
+        "https://librebook.me/master_i_margarita?ysclid=lxgettmbtt929017731",
+        "https://umnovo.ru/texts/master-i-margarita?ysclid=lxgeugo3b2939561509",
+        "https://masterimargo.ru/index.php?whatpage=book&ysclid=lxgeuxd55w864789556"
     ]
     }
 }
