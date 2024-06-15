@@ -29,7 +29,7 @@ function App() {
       </div>
       <div>
         <ul>
-          {urls?.map((item)=> <li>{item} <button onClick={()=> addUrl(item)}>Загруз</button></li>)}
+          {urls?.map((item)=> <li>{item} <button onClick={()=> addUrl(item)}>Загрузить</button></li>)}
         </ul>
       </div>
       <div>
