@@ -24,6 +24,7 @@ function App() {
   return (
     <div className="App">
       <div>
+        <h2>Введите ключевое слово</h2>
         <input type='text' value={value} onChange={(event) => setValue(event.target.value)}/>
         <button onClick={() => getUrls()}>Поиск</button>
       </div>
